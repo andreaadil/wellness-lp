@@ -10,7 +10,7 @@ The purpose of this project was to familiarise myself with Tailwind CSS.
 - my main learning was how important the order of specificity is using a framework like Tailwind, where you can't rely on !important tags
 
 ### Built With
-- TailwindCSS: https://tailwindcss.com/
+TailwindCSS: https://tailwindcss.com/
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/andreaadil/
